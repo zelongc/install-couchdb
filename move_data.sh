@@ -1,2 +1,2 @@
-mv /home/couchdb/data /root/coud
-chmod 777 /root/cloud
+mv /home/couchdb/data /root/
+chmod 777 /root/
