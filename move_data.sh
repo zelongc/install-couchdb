@@ -1,2 +1,2 @@
-mv /home/couchdb/data /root/
-chmod 777 /root/
+mv /home/couchdb/data /mnt/
+chmod 777 /mnt/
